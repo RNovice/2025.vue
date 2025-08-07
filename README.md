@@ -4,6 +4,13 @@
 
 First Vue project, login system clone
 
+## Test account
+
+|          |                   |
+| -------- | ----------------- |
+| email    | example@email.com |
+| password | 123456            |
+
 ## Project Setup
 
 ```sh
